@@ -1,3 +1,3 @@
 # technical-writing-portfolio
 
-This portfolio demonstrates real-world SaaS documentation including API docs, release notes, and user guides.
+This portfolio demonstrates Soma's work samples, including API docs, release notes, and user guides.
